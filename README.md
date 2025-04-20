@@ -38,5 +38,5 @@ A scalable live streaming MVP built with:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/livestream-mvp.git
-cd livestream-mvp
+git clone https://github.com/EdwardMelendezM/Kafka-integration.git
+cd Kafka-integration
